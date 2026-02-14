@@ -1,0 +1,26 @@
+/* DARK MODE GLOBAL */
+.dark {
+  background: #1f2421;
+  color: white;
+}
+
+.dark .navbar,
+.dark .auth-card,
+.dark .card {
+  background: #2a2f2b;
+  color: white;
+}
+
+.dark input {
+  background: #3a3f3b;
+  color: white;
+  border: none;
+}
+
+.dark .hero {
+  background: #2a3329;
+}
+
+.dark a {
+  color: #8be28b;
+}
