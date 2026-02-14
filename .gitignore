@@ -1,0 +1,10 @@
+node_modules/
+.env
+build/
+dist/
+coverage/
+*.log
+.DS_Store
+
+sharecircle-frontend/node_modules/
+sharecircle-backend/node_modules/
